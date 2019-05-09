@@ -1,0 +1,13 @@
+/Users/Fedor/Projects/labirint/labirint/bin/Debug/labirint.exe
+/Users/Fedor/Projects/labirint/labirint/bin/Debug/labirint.pdb
+/Users/Fedor/Projects/labirint/labirint/obj/x86/Debug/labirint.csprojAssemblyReference.cache
+/Users/Fedor/Projects/labirint/labirint/obj/x86/Debug/labirint.csproj.CoreCompileInputs.cache
+/Users/Fedor/Projects/labirint/labirint/obj/x86/Debug/labirint.exe
+/Users/Fedor/Projects/labirint/labirint/obj/x86/Debug/labirint.pdb
+C:\Users\User\Desktop\СonsoleMaze\labirint\bin\Debug\labirint.exe.config
+C:\Users\User\Desktop\СonsoleMaze\labirint\bin\Debug\labirint.exe
+C:\Users\User\Desktop\СonsoleMaze\labirint\bin\Debug\labirint.pdb
+C:\Users\User\Desktop\СonsoleMaze\labirint\obj\x86\Debug\labirint.csprojAssemblyReference.cache
+C:\Users\User\Desktop\СonsoleMaze\labirint\obj\x86\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\СonsoleMaze\labirint\obj\x86\Debug\labirint.exe
+C:\Users\User\Desktop\СonsoleMaze\labirint\obj\x86\Debug\labirint.pdb
